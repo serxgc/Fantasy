@@ -1,0 +1,656 @@
+{
+ "v": 1,
+ "updatedAt": 1793998345864,
+ "me": "sergigc1999",
+ "squad": [
+  {
+   "id": "p2",
+   "name": "Jon Martín",
+   "pos": "DEF",
+   "team": "Real Sociedad",
+   "buy": 29000000
+  },
+  {
+   "id": "p3",
+   "name": "Cuti Romero",
+   "pos": "DEF",
+   "team": "Atlético de Madrid",
+   "buy": 48000000
+  },
+  {
+   "id": "p4",
+   "name": "Youssouf Fofana",
+   "pos": "CEN",
+   "team": "Sevilla",
+   "buy": 22689135
+  },
+  {
+   "id": "p5",
+   "name": "Moi Gómez",
+   "pos": "CEN",
+   "team": "Osasuna",
+   "buy": 2462352
+  },
+  {
+   "id": "p6",
+   "name": "Ilaix Moriba",
+   "pos": "CEN",
+   "team": "Celta de Vigo",
+   "buy": 17799887
+  },
+  {
+   "id": "p7",
+   "name": "Thomas Lemar",
+   "pos": "CEN",
+   "team": "Elche",
+   "buy": 5000000
+  },
+  {
+   "id": "p8",
+   "name": "Álvaro Núñez",
+   "pos": "DEF",
+   "team": "Celta de Vigo",
+   "buy": 3182040
+  },
+  {
+   "id": "p9",
+   "name": "Alex Freeman",
+   "pos": "DEF",
+   "team": "Villarreal",
+   "buy": 5500000
+  },
+  {
+   "id": "p10",
+   "name": "Jan Oblak",
+   "pos": "POR",
+   "team": "Atlético de Madrid",
+   "buy": 50407087
+  },
+  {
+   "id": "p11",
+   "name": "Natan",
+   "pos": "DEF",
+   "team": "Real Betis",
+   "buy": 53213204
+  },
+  {
+   "id": "p13",
+   "name": "Jean Ives Valou",
+   "pos": "DEF",
+   "team": "Getafe",
+   "buy": 581891
+  },
+  {
+   "id": "p14",
+   "name": "Yoel Lago",
+   "pos": "DEF",
+   "team": "Celta de Vigo",
+   "buy": 31521998
+  },
+  {
+   "id": "p15",
+   "name": "Carlos Macià",
+   "pos": "CEN",
+   "team": "Villarreal",
+   "buy": 1590000
+  },
+  {
+   "id": "p16",
+   "name": "Beñat Gerenabarrena",
+   "pos": "CEN",
+   "team": "Athletic Club",
+   "buy": 3690000
+  },
+  {
+   "id": "p18",
+   "name": "Félix Correia",
+   "pos": "DEL",
+   "team": "Sevilla",
+   "buy": 9359999
+  },
+  {
+   "id": "p19",
+   "name": "Pablo Fornals",
+   "pos": "CEN",
+   "team": "Real Betis",
+   "buy": 45599999
+  },
+  {
+   "id": "p20",
+   "name": "Pablo Durán",
+   "pos": "DEL",
+   "team": "Celta de Vigo",
+   "buy": 1060007
+  },
+  {
+   "id": "p21",
+   "name": "Giuliano Simeone",
+   "pos": "DEL",
+   "team": "Atlético de Madrid",
+   "buy": 51525931
+  },
+  {
+   "id": "p22",
+   "name": "Grimaldo",
+   "pos": "DEF",
+   "team": "Atlético de Madrid",
+   "buy": 97533592
+  }
+ ],
+ "sold": [
+  {
+   "id": "s1",
+   "name": "Guridi",
+   "pos": "",
+   "team": "",
+   "buy": 7000000,
+   "sell": 7250776,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s2",
+   "name": "Barrios",
+   "pos": "",
+   "team": "",
+   "buy": 61200000,
+   "sell": 54181000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s3",
+   "name": "David Soria",
+   "pos": "",
+   "team": "",
+   "buy": 35870313,
+   "sell": 36765775,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s4",
+   "name": "Gordon",
+   "pos": "",
+   "team": "",
+   "buy": 87058757,
+   "sell": 89968337,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s5",
+   "name": "Iñigo Arguibide",
+   "pos": "",
+   "team": "",
+   "buy": 1581000,
+   "sell": 3786694,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s6",
+   "name": "Y. Zabiri",
+   "pos": "",
+   "team": "",
+   "buy": 8924527,
+   "sell": 16500000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s7",
+   "name": "Pablo García",
+   "pos": "",
+   "team": "",
+   "buy": 7900000,
+   "sell": 7783539,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s8",
+   "name": "Ramon Terrats",
+   "pos": "",
+   "team": "",
+   "buy": 7000000,
+   "sell": 8240175,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s9",
+   "name": "Sebastián Cáceres",
+   "pos": "",
+   "team": "",
+   "buy": 7200000,
+   "sell": 5280000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s10",
+   "name": "Guedes",
+   "pos": "",
+   "team": "",
+   "buy": 18733000,
+   "sell": 16392000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s11",
+   "name": "Dieng",
+   "pos": "",
+   "team": "",
+   "buy": 2142126,
+   "sell": 1796636,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s12",
+   "name": "Olasagasti",
+   "pos": "",
+   "team": "",
+   "buy": 4000000,
+   "sell": 10063100,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s13",
+   "name": "Pedri",
+   "pos": "",
+   "team": "",
+   "buy": 95200482,
+   "sell": 100000000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s14",
+   "name": "Javi Rueda",
+   "pos": "",
+   "team": "",
+   "buy": 5390501,
+   "sell": 5457639,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s15",
+   "name": "Gabriel Suazo",
+   "pos": "",
+   "team": "",
+   "buy": 7513994,
+   "sell": 8492416,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s16",
+   "name": "Nico Williams",
+   "pos": "",
+   "team": "",
+   "buy": 53793136,
+   "sell": 65400650,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s17",
+   "name": "Aitor Paredes",
+   "pos": "",
+   "team": "",
+   "buy": 16450559,
+   "sell": 17777553,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s18",
+   "name": "Karim Adeyemi",
+   "pos": "",
+   "team": "",
+   "buy": 83896196,
+   "sell": 86281867,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s19",
+   "name": "Koski",
+   "pos": "",
+   "team": "",
+   "buy": 18500000,
+   "sell": 29339011,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s20",
+   "name": "Cucho Hernández",
+   "pos": "",
+   "team": "",
+   "buy": 41767700,
+   "sell": 45919058,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s21",
+   "name": "Ilias Akhomach",
+   "pos": "",
+   "team": "",
+   "buy": 5787725,
+   "sell": 6051818,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s22",
+   "name": "Kike Salas",
+   "pos": "",
+   "team": "",
+   "buy": 13490008,
+   "sell": 14408851,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s23",
+   "name": "Marc Bartra",
+   "pos": "",
+   "team": "",
+   "buy": 24940046,
+   "sell": 25663587,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s24",
+   "name": "Camello",
+   "pos": "",
+   "team": "",
+   "buy": 26580573,
+   "sell": 62514257,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s25",
+   "name": "Julián Álvarez",
+   "pos": "",
+   "team": "",
+   "buy": 36581474,
+   "sell": 33949947,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s26",
+   "name": "Fer Niño",
+   "pos": "",
+   "team": "",
+   "buy": 19680696,
+   "sell": 45302559,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s27",
+   "name": "Emil Audero",
+   "pos": "",
+   "team": "",
+   "buy": 5199431,
+   "sell": 4745097,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s28",
+   "name": "Ionut Radu",
+   "pos": "",
+   "team": "",
+   "buy": 40812147,
+   "sell": 40440912,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s29",
+   "name": "Andrés Castrín",
+   "pos": "",
+   "team": "",
+   "buy": 7900000,
+   "sell": 11251792,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s30",
+   "name": "Iván Azón",
+   "pos": "",
+   "team": "",
+   "buy": 6150000,
+   "sell": 4848884,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s31",
+   "name": "Georges Mikautadze",
+   "pos": "",
+   "team": "",
+   "buy": 38272599,
+   "sell": 38905335,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s32",
+   "name": "Joan García",
+   "pos": "",
+   "team": "",
+   "buy": 59743536,
+   "sell": 64688652,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s33",
+   "name": "Fede Valverde",
+   "pos": "",
+   "team": "",
+   "buy": 44900000,
+   "sell": 62219277,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s34",
+   "name": "Youssef Enríquez",
+   "pos": "",
+   "team": "",
+   "buy": 939000,
+   "sell": 754222,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s35",
+   "name": "Aarón Mayol",
+   "pos": "",
+   "team": "",
+   "buy": 2500000,
+   "sell": 861858,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s36",
+   "name": "Nicolás Valentini",
+   "pos": "",
+   "team": "",
+   "buy": 910163,
+   "sell": 894595,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s37",
+   "name": "Johnny Cardoso",
+   "pos": "",
+   "team": "",
+   "buy": 5896463,
+   "sell": 5456630,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s38",
+   "name": "Yeray Álvarez",
+   "pos": "",
+   "team": "",
+   "buy": 4090729,
+   "sell": 3694115,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s39",
+   "name": "Diego Villares",
+   "pos": "",
+   "team": "",
+   "buy": 792893,
+   "sell": 787076,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s40",
+   "name": "Raba",
+   "pos": "",
+   "team": "",
+   "buy": 2500000,
+   "sell": 735537,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s41",
+   "name": "Xavi Espart",
+   "pos": "",
+   "team": "",
+   "buy": 28000000,
+   "sell": 62072914,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s42",
+   "name": "Álex Baena",
+   "pos": "",
+   "team": "",
+   "buy": 98375589,
+   "sell": 105960502,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s43",
+   "name": "Juan Foyth",
+   "pos": "",
+   "team": "",
+   "buy": 12350000,
+   "sell": 12552541,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s44",
+   "name": "Péter Gulácsi",
+   "pos": "",
+   "team": "",
+   "buy": 13514957,
+   "sell": 18000000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s45",
+   "name": "Aitor Fernández",
+   "pos": "",
+   "team": "",
+   "buy": 555555,
+   "sell": 4700000,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s46",
+   "name": "Jules Koundé",
+   "pos": "",
+   "team": "",
+   "buy": 20500000,
+   "sell": 20162594,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s47",
+   "name": "Mikel Oyarzabal",
+   "pos": "",
+   "team": "",
+   "buy": 47740622,
+   "sell": 59755480,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s48",
+   "name": "Aitor Paredes",
+   "pos": "",
+   "team": "",
+   "buy": 22561429,
+   "sell": 32550727,
+   "ts": 0,
+   "direct": true
+  },
+  {
+   "id": "s49",
+   "pid": "",
+   "name": "Marc Roca",
+   "pos": "CEN",
+   "team": "Real Betis",
+   "buy": 14000000,
+   "sell": 27901059,
+   "ts": 0,
+   "direct": false
+  },
+  {
+   "id": "s50",
+   "pid": "",
+   "name": "Arnaut Danjuma",
+   "pos": "DEL",
+   "team": "Valencia",
+   "buy": 5500000,
+   "sell": 3981391,
+   "ts": 0,
+   "direct": false
+  },
+  {
+   "id": "s51",
+   "pid": "",
+   "name": "Dani Requena",
+   "pos": "CEN",
+   "team": "Levante",
+   "buy": 729156,
+   "sell": 748560,
+   "ts": 0,
+   "direct": false
+  }
+ ],
+ "log": []
+}
